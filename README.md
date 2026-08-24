@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Portee+%F0%9F%91%8B;Software+%26+Data+Engineering+Student;Building+pipelines%2C+APIs%2C+and+security+systems;Based+in+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Portee+%F0%9F%91%8B;Data+Engineering+Student;Building+pipelines%2C+APIs%2C;Im+Love+my GF+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
 
 </div>
 
@@ -13,18 +13,16 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Software/Computer Engineering student in Thailand, currently deep in **Software Engineering**, **Big Data Engineering**, and **Operating Systems**
-- 🛠️ I like building things end to end: from ETL pipelines and data warehouses to full stack apps and security tools
-- 🏆 Recently completed the **ISAP Data Engineer** selection process, building an automated pipeline that pulls government data into a DuckDB star schema warehouse
-- 🌱 Currently exploring RAG / GraphRAG architectures, LLM context mechanics, and AI powered data pipelines
-- ⚡ Fun fact: I debug assembly language for fun (and homework)
+- 🎓 Computer Engineering student in Thailand, currently deep in **Big Data Engineering**, and **Operating Systems**
+- 🛠️ I like building things end to end: from ETL pipelines and data warehouses 
+- 🏆 Recently work as **ISAP Data Engineer**, building an automated pipeline and create a data warehouse
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,nodejs,html,css,postgres,redis,docker,git,githubactions,vscode&theme=dark" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,nodejs,html,css,postgres,redis,docker,git,vscode&theme=dark" alt="Languages and tools" />
 </p>
 
 ---
