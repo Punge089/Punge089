@@ -1,13 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Portee+%F0%9F%91%8B;Data+Engineering+Student;Building+pipelines%2C+APIs%2C;Im+Love+my GF+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Punge089&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Studying%20%2F%20Building-38BDF8?style=flat" alt="Status" />
-</p>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Portee+%F0%9F%91%8B;Data+Engineering+Student;Building+pipelines%2C+APIs%2C;Im+Love+my+GF+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" /> </div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Punge089&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile views" /> <img src="https://img.shields.io/badge/Status-Studying%20%2F%20Building-38BDF8?style=flat" alt="Status" /> </p>
 
 ---
 
