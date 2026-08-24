@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering student in Thailand, currently deep in **Big Data Engineering**, and **Operating Systems**
-- 🛠️ I like building things end to end: from ETL pipelines and data warehouses
-- 🏆 Recently work as **ISAP Data Engineer**, building an automated pipeline and create a data warehouse
+-  Computer Engineering student in Thailand, currently deep in **Big Data Engineering**, and **Operating Systems**
+-  I like building things end to end: from ETL pipelines and data warehouses
+-  Recently work as **ISAP Data Engineer**, building an automated pipeline and create a data warehouse
 
 ---
 
