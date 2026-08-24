@@ -31,44 +31,13 @@
 
 ### 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Punge089/isap-data-engineer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Punge089&repo=isap-data-engineer&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Punge089/mini-etl-sales-pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Punge089&repo=mini-etl-sales-pipeline&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Punge089/Portfolio-Punge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Punge089&repo=Portfolio-Punge&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Punge089/Password-Checker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Punge089&repo=Password-Checker&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔥 My Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Punge089&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punge089&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [isap-data-engineer](https://github.com/Punge089/isap-data-engineer) | Automated pipeline pulling government data into a DuckDB star schema warehouse | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [mini-etl-sales-pipeline](https://github.com/Punge089/mini-etl-sales-pipeline) | ETL pipeline for cleaning, loading, querying, and reporting sales data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Portfolio-Punge](https://github.com/Punge089/Portfolio-Punge) | Personal portfolio site | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [Password-Checker](https://github.com/Punge089/Password-Checker) | Password strength checker | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [Electronic-shop](https://github.com/Punge089/Electronic-shop) | Electronics shop project | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
 
 ---
 
