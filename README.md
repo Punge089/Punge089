@@ -47,6 +47,6 @@
 
 <div align="center">
 
-*"Debugging assembly by day, building data pipelines by night."*
+*"Vibe coding by day, Vibe coding by night."*
 
 </div>
