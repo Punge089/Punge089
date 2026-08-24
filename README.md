@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Portee+%F0%9F%91%8B;Data+Engineering+Student;Building+pipelines%2C+APIs%2C;Im+Love+my+GF+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Portee+%F0%9F%91%8B;Data+Engineering+Student;Building+pipelines%2C+APIs%2C;Im+Love+my+GF" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -40,7 +40,7 @@
 ### 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punge089&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Punge089&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
