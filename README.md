@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Punge089&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Studying%20%2F%20Building-38BDF8?style=flat" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Punge089&label=Profile%20Views&color=F97316&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Studying%20%2F%20Building-F97316?style=flat" alt="Status" />
 </p>
 
 ---
