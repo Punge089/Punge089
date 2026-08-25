@@ -47,6 +47,6 @@
 
 <div align="center">
 
-*"Vibe coding by day, Vibe coding by night."*
+*"I can vibe code all day."*
 
 </div>
